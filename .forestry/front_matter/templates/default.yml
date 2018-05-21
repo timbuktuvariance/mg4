@@ -23,4 +23,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- references.md
 - post/references.md
