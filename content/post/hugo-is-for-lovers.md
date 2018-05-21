@@ -1,10 +1,10 @@
 +++
-title = "Hugo is for lovers"
-date = "2015-08-03T13:39:46+02:00"
-toc = true
 comments = true
-+++
+date = "2015-08-03T13:39:46+02:00"
+title = "Hugo is for lovers"
+toc = true
 
++++
 ## Step 1. Install Hugo
 
 Goto [hugo releases](https://github.com/spf13/hugo/releases) and download the
