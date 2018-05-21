@@ -1,0 +1,24 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: toc
+  label: Toc
+  type: boolean
+  hidden: false
+  default: false
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
+- name: comments
+  label: Comments
+  type: boolean
+  hidden: false
+  default: false
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
