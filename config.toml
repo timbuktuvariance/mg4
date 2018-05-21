@@ -1,10 +1,11 @@
-baseurl = "https://www.example.com"
-title = "yii.im"
+baseurl = "https://sealovers.co.uk"
+title = "miraglobal.com"
 theme = "vec"
 languageCode = "en-us"
 paginate = 10
-disqusShortname = "yiiim"
+disqusShortname = ""
 googleAnalytics = "UA-57408564-1"
+formspree = true
 
 [menu]
   # Shown in the side menu.
@@ -22,14 +23,11 @@ googleAnalytics = "UA-57408564-1"
     url = "/faq"
 
 [params]
-  Keywords = "key, 关键字, キーワード"
-  Description = "There are some words to describe your site"
+  Keywords = "opensource, education, scotland"
+  Description = "Thoughts on Opensource and Education"
   Avatar = "img/avatar.jpg"
-  SelfIntro = "Just a worm, seek for true, live in shadow, no more..."
-  Email = "yiichou@gmail.com"
+  SelfIntro = "Thoughts on Opensource and Education"
+  Email = "timbuktuvariance@gmail.com"
 
-  GithubID = "Your Github ID"
-  TwitterID = "Your Twitter ID"
-  FacebookID = "Your Facebook ID"
-  LinkedInID = "Your LinkedIn ID"
-  GoogleplusID = "Your Googleplus ID"
+  GithubID = "timbuktuvariance"
+
