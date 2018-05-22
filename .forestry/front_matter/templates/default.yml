@@ -24,4 +24,5 @@ fields:
   default: ''
 pages:
 - references.md
+- post/map.md
 - post/references.md
