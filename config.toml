@@ -9,15 +9,15 @@ title = "miraglobal.com"
 [[menu.main]]
 name = "references"
 url = "/references"
-weight = 1
+weight = 2
 [[menu.main]]
 name = "contact"
 url = "/contact"
-weight = 1
+weight = 3
 [[menu.main]]
 name = "post"
 url = "/post"
-weight = 2
+weight = 1
 [params]
 avatar = "img/avatar.jpg"
 description = "Thoughts on Opensource and Education"
