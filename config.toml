@@ -1,4 +1,4 @@
-baseurl = "https://miraglobal.com"
+baseurl = "http://miraglobal.com"
 disqusShortname = ""
 formspree = true
 googleAnalytics = "UA-28439668-1"
