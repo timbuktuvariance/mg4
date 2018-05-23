@@ -1,6 +1,6 @@
 +++
 comments = false
-date = "2018-05-22T10:26:09+00:00"
+date = "2018-05-22T10:26:09Z"
 slug = ""
 title = "Map"
 toc = false
