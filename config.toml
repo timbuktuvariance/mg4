@@ -7,17 +7,13 @@ paginate = 10
 theme = "vec"
 title = "miraglobal.com"
 [[menu.main]]
-name = "faq"
-url = "/faq"
-weight = 2
-[[menu.main]]
 name = "contact"
 url = "/contact"
 weight = 1
 [[menu.main]]
 name = "post"
 url = "/post"
-weight = 0
+weight = 2
 [params]
 avatar = "img/avatar.jpg"
 description = "Thoughts on Opensource and Education"
