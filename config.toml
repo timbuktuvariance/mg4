@@ -7,6 +7,10 @@ paginate = 10
 theme = "vec"
 title = "miraglobal.com"
 [[menu.main]]
+name = "references"
+url = "/references"
+weight = 1
+[[menu.main]]
 name = "contact"
 url = "/contact"
 weight = 1
