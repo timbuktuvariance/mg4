@@ -5,6 +5,4 @@ title = "Contact"
 type = "page"
 
 +++
-# here
-
-Are you
+ 
