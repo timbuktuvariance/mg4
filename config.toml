@@ -19,7 +19,7 @@ name = "post"
 url = "/post"
 weight = 1
 [params]
-avatar = "img/avatar.jpg"
+avatar = "/uploads/Hardware-Chip-icon.png"
 description = "Thoughts on Opensource and Education"
 email = "timbuktuvariance@gmail.com"
 githubid = "timbuktuvariance"
