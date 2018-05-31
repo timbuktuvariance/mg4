@@ -6,9 +6,7 @@ title = "Robotics and Hardware"
 toc = true
 
 +++
-H
-
-ardware, electronics, robotics
+Hardware, electronics, robotics
 
 Latest trends in Robotics and hardware
 
