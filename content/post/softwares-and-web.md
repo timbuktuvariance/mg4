@@ -1,12 +1,12 @@
 +++
 comments = false
-date = "2018-05-30T13:39:52+00:00"
+date = "2018-05-30T13:39:52Z"
 slug = ""
 title = "Softwares and web"
 toc = true
 
 +++
- These softwares and web services are widely used in makers projects. They are open source,  and most don't require signing up.
+These softwares and web services are widely used in makers projects. They are open source,  and most don't require signing up.
 
 Linux Debian Ubuntu an Operative System [https://www.ubuntu.com/desktop](https://www.ubuntu.com/desktop "https://www.ubuntu.com/desktop")
 
