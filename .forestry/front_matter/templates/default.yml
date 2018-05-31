@@ -24,6 +24,7 @@ fields:
   default: ''
 pages:
 - references.md
+- post/robotics-and-hardware.md
 - post/softwares-and-web.md
 - post/materials-and-links.md
 - post/map.md
