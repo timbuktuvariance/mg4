@@ -24,5 +24,6 @@ fields:
   default: ''
 pages:
 - references.md
+- post/materials-and-links.md
 - post/softwares-and-web.md
 - post/map.md
