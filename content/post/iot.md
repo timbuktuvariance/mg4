@@ -1,9 +1,19 @@
 +++
 comments = false
 date = "2018-05-31T16:03:33+00:00"
-draft = true
 slug = ""
 title = "IoT"
-toc = false
+toc = true
 
 +++
+Web server - with temperature readings web page
+
+Install raspbian with etcher - enable ssh
+
+App design cloud[http://www.thingstud.io/](http://www.thingstud.io/ "http://www.thingstud.io/")
+
+[https://thingspeak.com/](https://thingspeak.com/ "https://thingspeak.com/")
+
+Control pi over internet without opening ports
+
+[https://www.dataplicity.com](https://www.dataplicity.com "https://www.dataplicity.com")
