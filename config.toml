@@ -15,7 +15,7 @@ name = "contact"
 url = "/contact"
 weight = 3
 [[menu.main]]
-name = "post"
+name = "posts"
 url = "/post"
 weight = 1
 [params]
