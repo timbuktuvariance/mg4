@@ -24,6 +24,7 @@ fields:
   default: ''
 pages:
 - references.md
+- post/arcade.md
 - post/iot.md
 - post/robotics-and-hardware.md
 - post/softwares-and-web.md
