@@ -1,7 +1,7 @@
 +++
 formspree = true
 id = "contact"
-title = "Contact"
+title = ""
 type = "page"
 
 +++
