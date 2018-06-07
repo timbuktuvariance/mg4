@@ -14,3 +14,13 @@ toc = false
 [https://www.linuxjournal.com/content/data-privacy-why-it-matters-and-how-protect-yourself](https://www.linuxjournal.com/content/data-privacy-why-it-matters-and-how-protect-yourself "https://www.linuxjournal.com/content/data-privacy-why-it-matters-and-how-protect-yourself")
 
 [https://www.linuxjournal.com/content/linux-journal-june-issue-do-it-yourself](https://www.linuxjournal.com/content/linux-journal-june-issue-do-it-yourself "https://www.linuxjournal.com/content/linux-journal-june-issue-do-it-yourself")
+
+[https://www.infoworld.com/article/2980781/linux/the-best-linux-distro-for-schools.html](https://www.infoworld.com/article/2980781/linux/the-best-linux-distro-for-schools.html "https://www.infoworld.com/article/2980781/linux/the-best-linux-distro-for-schools.html")
+
+[http://www.linfo.org/linux_educ.html](http://www.linfo.org/linux_educ.html "http://www.linfo.org/linux_educ.html")
+
+[https://www.comparebusinessproducts.com/fyi/50-places-linux-running-you-might-not-expect](https://www.comparebusinessproducts.com/fyi/50-places-linux-running-you-might-not-expect "https://www.comparebusinessproducts.com/fyi/50-places-linux-running-you-might-not-expect")
+
+[https://www.linuxjournal.com/article/6349](https://www.linuxjournal.com/article/6349 "https://www.linuxjournal.com/article/6349")
+
+[https://www.linux.com/news/edubuntu-linux-education](https://www.linux.com/news/edubuntu-linux-education "https://www.linux.com/news/edubuntu-linux-education")
