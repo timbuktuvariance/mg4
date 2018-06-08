@@ -24,3 +24,7 @@ toc = false
 [https://www.linuxjournal.com/article/6349](https://www.linuxjournal.com/article/6349 "https://www.linuxjournal.com/article/6349")
 
 [https://www.linux.com/news/edubuntu-linux-education](https://www.linux.com/news/edubuntu-linux-education "https://www.linux.com/news/edubuntu-linux-education")
+
+OS to be used in the classroom
+
+[http://wiki.sugarlabs.org/go/What_is_Sugar%3F](http://wiki.sugarlabs.org/go/What_is_Sugar%3F "http://wiki.sugarlabs.org/go/What_is_Sugar%3F")
