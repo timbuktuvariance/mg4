@@ -38,3 +38,11 @@ Outreach
 career
 
 [http://www.lpi.org/value-of-certification/linux-professionals](http://www.lpi.org/value-of-certification/linux-professionals "http://www.lpi.org/value-of-certification/linux-professionals")
+
+conferences
+
+[http://www.open.ac.uk/about/teaching-and-learning/esteem/mptl-2017](http://www.open.ac.uk/about/teaching-and-learning/esteem/mptl-2017 "http://www.open.ac.uk/about/teaching-and-learning/esteem/mptl-2017")
+
+research group
+
+[http://www.ilets.eu/research-and-scholarship-2/projects-2/excellent-stem-education-successful-scotland/](http://www.ilets.eu/research-and-scholarship-2/projects-2/excellent-stem-education-successful-scotland/ "http://www.ilets.eu/research-and-scholarship-2/projects-2/excellent-stem-education-successful-scotland/")
