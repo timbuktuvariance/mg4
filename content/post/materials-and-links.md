@@ -34,3 +34,7 @@ Outreach
 [http://www.open.edu/openlearn/science-maths-technology/computing-and-ict/computing/open-source-the-open-university](http://www.open.edu/openlearn/science-maths-technology/computing-and-ict/computing/open-source-the-open-university "http://www.open.edu/openlearn/science-maths-technology/computing-and-ict/computing/open-source-the-open-university")
 
 [https://er.educause.edu/articles/2008/5/open-source-software-in-education](https://er.educause.edu/articles/2008/5/open-source-software-in-education "https://er.educause.edu/articles/2008/5/open-source-software-in-education")
+
+career
+
+[http://www.lpi.org/value-of-certification/linux-professionals](http://www.lpi.org/value-of-certification/linux-professionals "http://www.lpi.org/value-of-certification/linux-professionals")
