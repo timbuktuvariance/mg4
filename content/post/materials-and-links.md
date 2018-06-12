@@ -28,3 +28,7 @@ toc = false
 OS to be used in the classroom
 
 [http://wiki.sugarlabs.org/go/What_is_Sugar%3F](http://wiki.sugarlabs.org/go/What_is_Sugar%3F "http://wiki.sugarlabs.org/go/What_is_Sugar%3F")
+
+Outreach
+
+[http://www.open.edu/openlearn/science-maths-technology/computing-and-ict/computing/open-source-the-open-university](http://www.open.edu/openlearn/science-maths-technology/computing-and-ict/computing/open-source-the-open-university "http://www.open.edu/openlearn/science-maths-technology/computing-and-ict/computing/open-source-the-open-university")
