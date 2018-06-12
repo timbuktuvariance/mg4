@@ -32,3 +32,5 @@ OS to be used in the classroom
 Outreach
 
 [http://www.open.edu/openlearn/science-maths-technology/computing-and-ict/computing/open-source-the-open-university](http://www.open.edu/openlearn/science-maths-technology/computing-and-ict/computing/open-source-the-open-university "http://www.open.edu/openlearn/science-maths-technology/computing-and-ict/computing/open-source-the-open-university")
+
+[https://er.educause.edu/articles/2008/5/open-source-software-in-education](https://er.educause.edu/articles/2008/5/open-source-software-in-education "https://er.educause.edu/articles/2008/5/open-source-software-in-education")
