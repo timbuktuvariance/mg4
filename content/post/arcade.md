@@ -16,7 +16,7 @@ This project combines skills in woodwork, electronics, coding, design and graphi
 * Raspberry Pi with sd card
 * speakers, 3w with class d amplifier
 * joysticks and buttons
-* If unplugged (portable)
+* If unplugged (portable):
 * Materials - wood
 * cabinet: screws and MDF
 
