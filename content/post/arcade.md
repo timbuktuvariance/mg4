@@ -6,9 +6,7 @@ title = "Arcade"
 toc = true
 
 +++
-A
-
-rcade project
+#### Arcade project
 
 This project combines skills in woodwork, electronics, coding, design and graphic.
 
