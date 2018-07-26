@@ -18,6 +18,6 @@ This project combines skills in woodwork, electronics, coding, design and graphi
 * joysticks and buttons
 * If unplugged (portable)
 * Materials - wood
-* cabinet: screws and mdf
+* cabinet: screws and MDF
 
 #### References
