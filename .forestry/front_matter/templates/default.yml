@@ -1,4 +1,5 @@
 ---
+label: default
 hide_body: false
 is_partial: false
 fields:
@@ -23,10 +24,10 @@ fields:
   hidden: false
   default: ''
 pages:
-- references.md
-- post/materials-and-links.md
-- post/robotics-and-hardware.md
-- post/arcade.md
-- post/iot.md
-- post/softwares-and-web.md
-- post/map.md
+- content/post/iot.md
+- content/post/map.md
+- content/post/materials-and-links.md
+- content/post/arcade.md
+- content/post/robotics-and-hardware.md
+- content/post/softwares-and-web.md
+- content/references.md
