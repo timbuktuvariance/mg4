@@ -10,6 +10,8 @@ toc = true
 
 This project combines skills in woodwork, electronics, coding, design and graphic.
 
+list
+
 #### Materials - Electronics
 
 * Screen (with HDMI or corresponding interface)
