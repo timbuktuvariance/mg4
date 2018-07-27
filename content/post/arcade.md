@@ -13,7 +13,7 @@ This project combines skills in woodwork, electronics, coding, design and graphi
 #### Materials - Electronics
 
 * Screen (with HDMI or corresponding interface)
-* Raspberry Pi with sd card
+* Raspberry Pi with SD card
 * speakers, 3w with class d amplifier
 * joysticks and buttons
 * If unplugged (portable):
