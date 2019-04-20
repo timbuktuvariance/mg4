@@ -10,6 +10,8 @@ type = "page"
 
 Baratta, N. C. (2017). Sharing America’s code. Retrieved May 7, 2018, from [https://opensource.com/article/17/5/sharing-americas-code](https://opensource.com/article/17/5/sharing-americas-code "https://opensource.com/article/17/5/sharing-americas-code")
 
+and
+
 Bellville, R. (1999). Linux in Schools | Linux Journal. Retrieved May 9, 2018, from [https://www.linuxjournal.com/article/2955](https://www.linuxjournal.com/article/2955 "https://www.linuxjournal.com/article/2955")
 
 Booker, E. (2013). 3 Reasons Linux Doesn’t Star In U.S. Schools. Retrieved May 9, 2018, from [https://www.informationweek.com/education/campus-infrastructure/3-reasons-linux-doesnt-star-in-us-school/240155736](https://www.informationweek.com/education/campus-infrastructure/3-reasons-linux-doesnt-star-in-us-school/240155736 "https://www.informationweek.com/education/campus-infrastructure/3-reasons-linux-doesnt-star-in-us-school/240155736")
