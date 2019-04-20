@@ -6,6 +6,7 @@ title = "materials and links"
 toc = false
 
 +++
+
 [https://www.britannica.com/topic/open-source](https://www.britannica.com/topic/open-source "https://www.britannica.com/topic/open-source")
 
 [https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/#source=pr](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/#source=pr "https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/#source=pr")
