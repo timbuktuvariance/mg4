@@ -23,9 +23,9 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/references.md
 - content/post/materials-and-links.md
 - content/post/robotics-and-hardware.md
-- content/references.md
 - content/post/arcade.md
 - content/post/map.md
 - content/post/iot.md
