@@ -1,7 +1,6 @@
 +++
 comments = false
 date = "2018-05-31T13:59:59Z"
-draft = false
 slug = ""
 title = "materials and links"
 toc = false
@@ -46,3 +45,5 @@ conferences
 research group
 
 [http://www.ilets.eu/research-and-scholarship-2/projects-2/excellent-stem-education-successful-scotland/](http://www.ilets.eu/research-and-scholarship-2/projects-2/excellent-stem-education-successful-scotland/ "http://www.ilets.eu/research-and-scholarship-2/projects-2/excellent-stem-education-successful-scotland/")
+
+[https://www.iteea.org/](https://www.iteea.org/ "https://www.iteea.org/")
