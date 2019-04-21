@@ -17,3 +17,11 @@ App design cloud[http://www.thingstud.io/](http://www.thingstud.io/ "http://www.
 Control pi over internet without opening ports
 
 [https://www.dataplicity.com](https://www.dataplicity.com "https://www.dataplicity.com")
+
+other cloud services:
+
+[https://blynk.io/](https://blynk.io/ "https://blynk.io/")
+
+[https://dweet.io/](https://dweet.io/ "https://dweet.io/")
+
+[https://lenuage.io/](https://lenuage.io/ "https://lenuage.io/")
