@@ -23,7 +23,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/post/WeatherStation.md
+- content/post/Weather Station.md
 - content/post/iot.md
 - content/post/robotics-and-hardware.md
 - content/references.md
