@@ -14,6 +14,8 @@ App design cloud[http://www.thingstud.io/](http://www.thingstud.io/ "http://www.
 
 [https://thingspeak.com/](https://thingspeak.com/ "https://thingspeak.com/")
 
+[https://www.hackster.io/Tiobel/esp32-solar-weather-station-bf9c23](https://www.hackster.io/Tiobel/esp32-solar-weather-station-bf9c23 "https://www.hackster.io/Tiobel/esp32-solar-weather-station-bf9c23")
+
 Control pi over internet without opening ports
 
 [https://www.dataplicity.com](https://www.dataplicity.com "https://www.dataplicity.com")
