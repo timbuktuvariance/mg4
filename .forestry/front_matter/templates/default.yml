@@ -23,10 +23,11 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/post/WeatherStation.md
 - content/post/iot.md
-- content/references.md
-- content/post/materials-and-links.md
 - content/post/robotics-and-hardware.md
+- content/references.md
+- content/post/softwares-and-web.md
 - content/post/arcade.md
 - content/post/map.md
-- content/post/softwares-and-web.md
+- content/post/materials-and-links.md
