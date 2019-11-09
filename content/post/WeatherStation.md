@@ -1,7 +1,7 @@
 +++
 comments = false
 slug = ""
-toc = false
+toc = true
 
 +++
 Weather station
