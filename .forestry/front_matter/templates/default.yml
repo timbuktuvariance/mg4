@@ -23,6 +23,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/post/Obstacle avoidance robot.md
 - content/post/iot.md
 - content/post/Weather Station.md
 - content/post/robotics-and-hardware.md
