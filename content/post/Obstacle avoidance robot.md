@@ -1,6 +1,5 @@
 +++
 comments = false
-draft = true
 slug = ""
 toc = false
 
