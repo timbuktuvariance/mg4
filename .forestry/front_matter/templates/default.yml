@@ -23,12 +23,12 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/post/Obstacle avoidance robot.md
-- content/post/iot.md
-- content/post/Weather Station.md
-- content/post/robotics-and-hardware.md
-- content/references.md
-- content/post/softwares-and-web.md
-- content/post/arcade.md
-- content/post/map.md
 - content/post/materials-and-links.md
+- content/post/map.md
+- content/post/arcade.md
+- content/post/softwares-and-web.md
+- content/references.md
+- content/post/robotics-and-hardware.md
+- content/post/Weather Station.md
+- content/post/iot.md
+- content/post/Obstacle avoidance robot.md
